@@ -2,7 +2,7 @@
 
 This project is a submission for my Data Analyst Internship at CodTech Technologies.
 
-## 🏢 HR Analytics Dashboard (Power BI)
+## 1. 🏢 HR Analytics Dashboard (Power BI)
 ##### 📌 Project Overview
 
 This project focuses on analyzing employee data to understand attrition trends and key HR metrics. The dashboard helps identify factors that contribute to employee turnover and supports data-driven HR decisions to improve retention and workforce planning.
@@ -76,7 +76,7 @@ Support strategic workforce planning
 This project successfully demonstrates how HR data can be transformed into meaningful insights using Power BI. By analyzing employee attrition across factors such as job role, salary, age, education, gender, and years at the company, the dashboard provides a clear view of the organization’s workforce trends. The analysis highlights that attrition is more prominent among employees in lower salary ranges and during the early years of employment, and that certain job roles experience higher turnover than others. Overall, this dashboard can support HR teams in making informed decisions related to employee retention, workforce planning, and policy improvements, proving the value of data-driven HR analytics in an organization.
 
 
-## 📱 Social Media Engagement Analysis Dashboard (Power BI)
+## 2. 📱 Social Media Engagement Analysis Dashboard (Power BI)
 ###### 📌 Project Overview
 
 This project analyzes social media engagement data across platforms, time periods, audience groups, and regions. The dashboard provides insights into likes, comments, and shares to help understand audience behavior and improve content strategy.
